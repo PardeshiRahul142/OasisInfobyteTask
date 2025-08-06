@@ -1,1 +1,1 @@
-this are the task of oasisInfobye online intership . I am complete that task . In this task four small application 1) bankAccount.java 2)NumberGuessingGame.java 3)OnlineReservationSystem.java 4)Online_Examination.java.
+This are the task of oasisInfobye online intership . I am complete that task . In this task four small application 1) bankAccount.java 2)NumberGuessingGame.java 3)OnlineReservationSystem.java 4)Online_Examination.java.
